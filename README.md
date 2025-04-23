@@ -3,7 +3,6 @@
 
 Este repositorio contiene la metodología y los notebooks desarrollados para evaluar el estado de las troncales principales de Venezuela usando imágenes satelitales tipo TMS, modelos de segmentación como SAM, y algoritmos de detección de anomalías, se puede usar para otro tipo de lugares especificando las areas de descarga desde un kml.
 
-> ⚠️ **Nota importante:** Este repositorio contiene únicamente notebooks. Los resultados generados son pesados y se almacenan externamente por eficiencia.
 
 ---
 
