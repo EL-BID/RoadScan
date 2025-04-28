@@ -1,7 +1,8 @@
 # RoadScan
 
+RoadScan es una herramienta diseñada para evaluar la transitabilidad en vías, incluyendo la detección de vehículos y de anomalías en el pavimento. Este repositorio contiene la metodología y los notebooks desarrollados para evaluar el estado de las vías usando imágenes satelitales tipo TMS, modelos de segmentación como SAM, y algoritmos de detección de anomalías. Se puede usar para otros tipos de lugares especificando las áreas de descarga desde un archivo KML.
+El enfoque de este proyecto combina técnicas de procesamiento de imágenes, machine learning y algoritmos de detección avanzada para lograr una segmentación precisa de las vías, identificar vehículos en movimiento y evaluar anomalías en la infraestructura vial. La automatización de estos procesos reduce la necesidad de inspecciones manuales y proporciona una herramienta eficiente para el monitoreo en tiempo real.
 
-Este repositorio contiene la metodología y los notebooks desarrollados para evaluar el estado de las troncales principales de Venezuela usando imágenes satelitales tipo TMS, modelos de segmentación como SAM, y algoritmos de detección de anomalías, se puede usar para otro tipo de lugares especificando las areas de descarga desde un kml.
 
 
 ---
