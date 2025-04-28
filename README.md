@@ -9,6 +9,9 @@ El enfoque de este proyecto combina técnicas de procesamiento de imágenes, mac
 
 ## 🗂 Estructura del Proyecto
 
+<img src="Road_Scan_flujo_modelo.png" width="1000" />
+
+
 | Archivo / Notebook              | Descripción breve |
 |-------------------------------|-------------------|
 | `2_CreacionBB_DescargaDataset.ipynb` | Genera los bounding boxes a partir del KML y descarga imágenes TMS (Terrain / Satellite). |
