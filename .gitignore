@@ -1,0 +1,93 @@
+# Data directories (can become very large)
+data/
+outputs/
+results/
+downloads/
+
+# Geospatial files (potentially large)
+*.tif
+*.tiff
+*.geotiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.shp.xml
+*.qix
+
+# KML/KMZ (keep example files, ignore user data)
+# To include example files, use: !examples/*.kml
+Troncales*.kml
+*.kmz
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Model checkpoints (downloaded automatically)
+*.pth
+*.pt
+checkpoints/
+sam_vit_*.pth
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
